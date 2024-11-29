@@ -42,7 +42,7 @@ Here's how my Python code is organized:
 ## 🙌 Let's Connect!  
 
 I'm always eager to learn from others and share ideas. Here's how you can reach me:  
-- 📧 **Email**:  
+- 📧 **Email**:  divyay1110@gmail.com
 
 Feel free to drop by with feedback, questions, or just a friendly hello! 😊  
 
