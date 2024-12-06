@@ -16,7 +16,7 @@ class NumberType :
         elif self.num > 0 :
             return "Positive Number"
         else :
-            return "It's Zero"
+            return "It's a Zero"
         
     def oddEven( self ) :
         if self.num % 2 == 0 :
